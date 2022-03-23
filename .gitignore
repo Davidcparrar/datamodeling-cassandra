@@ -131,3 +131,4 @@ dmypy.json
 # Data folder
 event_data/
 sparkifydb_data/
+event_datafile_new.csv
